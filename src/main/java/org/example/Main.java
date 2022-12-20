@@ -2,6 +2,9 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        TestCalcule test = new TestCalcule();
+        test.test_add();
+        test.test_multiplication();
+        test.test_substract();
     }
 }
