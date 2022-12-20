@@ -7,6 +7,6 @@ public class Main {
         test.test_multiplication();
         test.test_substract();
         test.test_division();
-        System.out.println("Test finished")
+        System.out.println("Test finished");
     }
 }
